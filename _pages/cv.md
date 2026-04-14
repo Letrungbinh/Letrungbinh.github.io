@@ -1,64 +1,48 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## 🎓 Học vấn
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Sinh viên IoT**  
+  Trường: Học Viện Công Nghệ Bưu Chính Viễn Thông 
+  Thời gian: 2023 - nay  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🛠️ Kỹ năng
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+| Kỹ năng              | Mức độ |
+|---------------------|--------|
+| C/C++ (Arduino)     | Khá    |
+| C# (WinForms)       | Khá    |
+| Git & GitHub        | Khá    |
+| Embedded Systems    | Khá    |
+| IoT                 | Khá    |
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## 📊 Dự án
+
+### 🌡️ LM35 Temperature Monitor
+- Đọc dữ liệu từ cảm biến LM35 (A0, A1, A2)
+- Chuyển đổi ADC sang nhiệt độ
+- Xuất dữ liệu dạng CSV và JSON
+- Hiển thị trên Serial Monitor
+- Mô phỏng bằng Proteus
+
+---
+
+## 📜 Hoạt động (tuỳ chọn)
+
+- Tham gia học phần IoT
+- Làm project Arduino và GitHub
+
+---
+
+## 📍 Thông tin liên hệ
+
+- 📧 Email: lebinh121205@gmail.com
+- 💻 GitHub: https://github.com/Letrungbinh
