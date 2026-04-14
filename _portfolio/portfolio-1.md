@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## 🌡️ Giới thiệu
-Dự án sử dụng Arduino để đo nhiệt độ từ cảm biến LM35 (A0, A1, A2) và hiển thị dữ liệu qua Serial Monitor.
+Dự án sử dụng Arduino để đo nhiệt độ từ cảm biến LM35 (A0, A1, A2) và hiển thị dữ liệu qua Serial Monitor .
 
 ---
 
